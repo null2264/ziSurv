@@ -1,0 +1,13 @@
+name = "Imperishable Items (Fabric)"
+filename = "imperishable-items-fabric-1.0.0-mc1.17.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NCd3V5jn/versions/1.0.0-mc1.17.1/imperishable-items-fabric-1.0.0-mc1.17.jar"
+hash-format = "sha512"
+hash = "ac94c2b9ee84355d91c3a394597b6f578af96315433d07b6810030f091b582065ffc0645cc71649115b3d4958fd06b576df7e30a1a289f152f27e4c2da8d86df"
+
+[update]
+[update.modrinth]
+mod-id = "NCd3V5jn"
+version = "R1UsZnUS"

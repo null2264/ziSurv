@@ -1,0 +1,13 @@
+name = "The Guild"
+filename = "guild-fabric-0.3.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KcQAUjoP/versions/0.3.3/guild-fabric-0.3.3.jar"
+hash-format = "sha512"
+hash = "38d9af4fabc9dbd037ae2eaec56020faaebc94b712c4911d977522ad2a4438a7d8343b4345ffad54431a88a6e414aef1a7665e04387f56ae8145f63996aaecaa"
+
+[update]
+[update.modrinth]
+mod-id = "KcQAUjoP"
+version = "hu6j9CHg"

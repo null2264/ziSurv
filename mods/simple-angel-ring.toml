@@ -1,0 +1,13 @@
+name = "Simple Angel Ring"
+filename = "simpleangelring-2.1.0+1.17.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sVaZbIvA/versions/v2.1.0+1.17/simpleangelring-2.1.0+1.17.jar"
+hash-format = "sha512"
+hash = "b5031493db09fcd44eb95a9e6f92058e2837d6408ee1d00381afb6191acc8f666e8b9f3f7b6ce7fcc78f47c4d1eb357742abba65425b524f34e9e3ad73f195a9"
+
+[update]
+[update.modrinth]
+mod-id = "sVaZbIvA"
+version = "ShvdNdgC"
