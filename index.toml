@@ -217,6 +217,11 @@ hash = "8eceab26b82383db3ea5629b1f27f45aa0e12589965ac99489809c2a40d2aefc"
 metafile = true
 
 [[files]]
+file = "mods/roughly-enough-items.toml"
+hash = "2328c6eb415a875ce41397571ccba97c15e306b8036bb6fa4cc6774962384c4f"
+metafile = true
+
+[[files]]
 file = "mods/simple-angel-ring.toml"
 hash = "a4810eb5dc78a06d719b39b0122d8d514d147e2f45ed33fd5029d61144909f9e"
 metafile = true
@@ -224,6 +229,11 @@ metafile = true
 [[files]]
 file = "mods/starlight.toml"
 hash = "cb9176439af93f4215bc9eb96ddcfa02566ea41aa5c1b6e230a66bfd23299255"
+metafile = true
+
+[[files]]
+file = "mods/trinkets-fabric.toml"
+hash = "c029a863743fee9d4a5698fb7ce311bdadc96a496bc5e8a8e766c02963ee3a23"
 metafile = true
 
 [[files]]
