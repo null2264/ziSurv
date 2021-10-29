@@ -82,6 +82,21 @@ hash = "344cf71aa529c54382c82220544a9bff2884dae0ce67cb68d7f148249b9b9065"
 metafile = true
 
 [[files]]
+file = "mods/architectury-fabric.toml"
+hash = "0cb15ecf2dbcd17db7d220f4dea657b79419d0c1dbab7a26b4d569d4752a1981"
+metafile = true
+
+[[files]]
+file = "mods/auto-config-updated-api.toml"
+hash = "04bec29f504eb82cf67ae96b56e6fc6ee2656cd0cd45136bc37427439a47db3f"
+metafile = true
+
+[[files]]
+file = "mods/balm-fabric.toml"
+hash = "b0d41ca6c5f473b074cebd9ef784248d9d556605c5d8e05d26ccaa03ccdd8084"
+metafile = true
+
+[[files]]
 file = "mods/bedrockify.toml"
 hash = "f7e92fc1e139a41e3421eee78a0f3f215ced28cf7f3387d338e0c41058869c44"
 metafile = true
@@ -92,8 +107,23 @@ hash = "3592764947713d02c3c023fda05a9afbbeb35464bb80f0bb5236c37a27f84085"
 metafile = true
 
 [[files]]
+file = "mods/carrier.toml"
+hash = "ba9a08b9dc9a34a5bf03011d033edbc16ff95b3d7d13e9927bb88490c532b97b"
+metafile = true
+
+[[files]]
 file = "mods/charm.toml"
 hash = "53bae3c40a5d298c6d29db8581346c277f63032a2ebe00b2d413a1d9bd2727d7"
+metafile = true
+
+[[files]]
+file = "mods/cloth-api.toml"
+hash = "3c329350a1ade79fa329aa932188659dc361d4917a0fcb07159b5eeb240f97f2"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.toml"
+hash = "311ca79bcaeb1d78c207e8059f05225bb05842b7b0dda3c54859d5d5b4e9d908"
 metafile = true
 
 [[files]]
@@ -107,13 +137,23 @@ hash = "31ac7e90238cee7ee04c0442ab8a3c2a8cf40f298cafb3f31118cbb36b2c4e4b"
 metafile = true
 
 [[files]]
+file = "mods/extra-generators.toml"
+hash = "8f4b9f6d3201bc25f2f1fe6868a49d9cd05988386e2102e29a4137de2ebfac4b"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.toml"
-hash = "8783fffeefc606aeac7b1ca2b8aa2e7e6d7e31d956ff02af879ffb4fa9a5159e"
+hash = "f5f041b4771f0055485665ef85addaa569fa035ce7a1c4b28d631aacc6c160fe"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.toml"
-hash = "925aebad465ed73fa5b3f8c41238428f2742fa59fcbed713713d6558f3104d6b"
+hash = "f946c365b017cdaa064e255a5a81c1665f3ac9526fd1bfa7eaf6c20e14994027"
+metafile = true
+
+[[files]]
+file = "mods/fabric-seasons.toml"
+hash = "b9d5b0b2e9aa5ca82b4075a01fadf1165a2ebf2fa3ffc656ee5aa1377010b9d3"
 metafile = true
 
 [[files]]
@@ -142,8 +182,23 @@ hash = "2e64535aee940e97bfd8b494972547b8ae3c7e1785b16f4863c970d32aceb024"
 metafile = true
 
 [[files]]
+file = "mods/industrial-revolution.toml"
+hash = "232422bfd759e6474fcf709dc5457f9d64cdc5ff6d672ccb321816d54d3aec48"
+metafile = true
+
+[[files]]
 file = "mods/iris.toml"
 hash = "bb3a66d784d73efbbe91963f577ef3a517500053cdc0df3aac94ea1d3b9f995f"
+metafile = true
+
+[[files]]
+file = "mods/iron-jetpacks-fabric.toml"
+hash = "8ee6b3499899be0bef53ecf30407574b80883114fc044596bffdc8848d617572"
+metafile = true
+
+[[files]]
+file = "mods/kibe.toml"
+hash = "ba5c20c4c7345a098138eda36ecdc9d000f32e5ea7ee603b63ea3d3c192e0fe2"
 metafile = true
 
 [[files]]
@@ -167,6 +222,26 @@ hash = "1b287fd91d01520f3ed683fca586e0b755a1c17e893cdce1fd0a3b8718377398"
 metafile = true
 
 [[files]]
+file = "mods/waystones-fabric.toml"
+hash = "fd17246452e0d2f270e7dafd654c04e41b7ff9e2a4e783deb1dcd061beebdb16"
+metafile = true
+
+[[files]]
+file = "mods/winged.toml"
+hash = "ad0c27dbc148b5b04cfb6b59b73ae21f7274bdfdb95ed8ee4ed0aaabbc2256a7"
+metafile = true
+
+[[files]]
 file = "mods/wthit.toml"
 hash = "bada55883fb094f47dd760d832fb01e15421cb2ac933761871fc13d69bca7407"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.toml"
+hash = "057708505aca4693dee6faccc400e81858be6c3468ba8731eb218264e7b96466"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.toml"
+hash = "6903dcb4475c63c023bd832d5f70d77b1478e96c763325e58e28d873e7e8df08"
 metafile = true

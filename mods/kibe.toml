@@ -1,0 +1,13 @@
+name = "Kibe"
+filename = "kibe-1.9.3-BETA+1.17.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OvlwmUdC/versions/1.9.3-BETA+1.17/kibe-1.9.3-BETA+1.17.jar"
+hash-format = "sha512"
+hash = "8563f602670632540a1a762e2d1a62463fd05da4ce3449cf8b43afea5aa1f327a03dd06ec047c83ddaa635cb0a9a0c24ef5c2af7c3b55aa94cc0bfa4050f76cf"
+
+[update]
+[update.modrinth]
+mod-id = "OvlwmUdC"
+version = "4NvMIZvI"
