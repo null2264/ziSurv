@@ -132,6 +132,11 @@ hash = "13c32086cfa84c92b1005e2cb9080f060601ef6146e4c519df02708c01ddc3c9"
 metafile = true
 
 [[files]]
+file = "mods/diggus-maximus.toml"
+hash = "d257876229cfb506c29837cf25738bade12d71cb8bd8632d9e644125cd692bc2"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.toml"
 hash = "31ac7e90238cee7ee04c0442ab8a3c2a8cf40f298cafb3f31118cbb36b2c4e4b"
 metafile = true
@@ -204,6 +209,11 @@ metafile = true
 [[files]]
 file = "mods/krypton.toml"
 hash = "01f54d293d1008f22f8cfc9a43b4c8e5473d882c2ed7ca667cbcf55ae4d638bc"
+metafile = true
+
+[[files]]
+file = "mods/miners-horizon.toml"
+hash = "8eceab26b82383db3ea5629b1f27f45aa0e12589965ac99489809c2a40d2aefc"
 metafile = true
 
 [[files]]
